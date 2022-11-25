@@ -1,10 +1,12 @@
 # chrome2pass
 
-Import Chrome passwords to pass via the exported CSV file.
+Import Chrome passwords to pass (the standard unix password manager) via an exported CSV file.
 
 Also works for Chrome based browsers (Chromium, Brave).
 
 # Requirements
+
+[pass](https://www.passwordstore.org/)
 
 Python3
 
